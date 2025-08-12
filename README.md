@@ -1,5 +1,3 @@
----
-
 # 🗒️ Gerenciador de Tarefas com Interface Gráfica em Python
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
